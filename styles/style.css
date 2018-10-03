@@ -1,0 +1,18 @@
+#map {
+  height: 100%;
+}
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.gm-style-iw div div {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: #696969;
+  font: 18px 'Sans-serif';
+}
+.gm-style-iw div div img {
+  padding-left: 15px;
+}
